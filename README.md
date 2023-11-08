@@ -1,5 +1,5 @@
 # Privacy Policies
 
-[Highway Rider](https://play.google.com/store/apps/details?id=cz.jinderamarak.highwayrider)
+[Highway Rider](highway-rider.md)
 
-[Svanceros Clickeros](https://play.google.com/store/apps/details?id=cz.jinderamarak.svanceros)
+[Svanceros CLickeros](svanceros-clickeros.md)
