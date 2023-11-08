@@ -2,4 +2,4 @@
 
 [Highway Rider](highway-rider.md)
 
-[Svanceros CLickeros](svanceros-clickeros.md)
+[Svanceros Clickeros](svanceros-clickeros.md)
